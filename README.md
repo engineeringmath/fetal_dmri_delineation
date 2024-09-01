@@ -6,6 +6,6 @@ The model can compute (1) Segmentation of the brain tissue, (2) Delineation of 6
 
 The paper describing the method is here https://www.biorxiv.org/content/10.1101/2024.08.29.609697v1
 
-Tensorflow models are available here [https://tinyurl.com/3ckc396x](https://tinyurl.com/w4rs8js7)
+Tensorflow models are available here https://tinyurl.com/w4rs8js7
 
 See a docker image of this model here  https://hub.docker.com/r/hsnoussi/delineation_fetal_dmri
